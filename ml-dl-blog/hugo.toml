@@ -1,0 +1,4 @@
+baseURL = "https://Ml-Dl-blog/"
+languageCode = 'en-us'
+title = 'machine learning and deep learning new blog site'
+theme="contrast-hugo"
