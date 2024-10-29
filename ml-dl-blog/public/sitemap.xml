@@ -2,10 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://Ml-Dl-blog/</loc>
+    <lastmod>2024-10-30T00:46:23+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://Ml-Dl-blog/posts/</loc>
+    <lastmod>2024-10-30T00:46:23+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://Ml-Dl-blog/posts/transformers/</loc>
+    <lastmod>2024-10-30T00:46:23+03:00</lastmod>
+  </url><url>
+    <loc>https://Ml-Dl-blog/categories/</loc>
+  </url><url>
+    <loc>https://Ml-Dl-blog/tags/</loc>
   </url>
 </urlset>
