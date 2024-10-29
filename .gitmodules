@@ -1,0 +1,8 @@
+[submodule "mkg1/Public"]
+	path = mkg1/Public
+	url = https://github.com/mkgmels/mkg1.git
+	branch = main
+[submodule "mkg1/public"]
+	path = mkg1/public
+	url = https://github.com/mkgmels/mkg1.git
+	branch = main2
